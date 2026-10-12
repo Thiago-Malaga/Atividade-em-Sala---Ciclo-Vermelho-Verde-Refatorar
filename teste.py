@@ -2,7 +2,7 @@
 #peguei a ideia de fazer de frete porque não precisa criar arquivos extras
 #vou fazer e testar 3 casos: calcular_frete("normal"), calcular_frete("expresso"), 
 #calcular_frete("retirada") e esses teste vao representar a versao da classe com strategy final
-# estou usando IA para auxiliar nas minhas duvidas: 
+# estou usando IA para auxiliar nas minhas duvidas: https://share.gemini.google/s3bBKwuUa24t
 
 import pytest
 from programa import calcular_frete

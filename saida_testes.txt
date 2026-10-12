@@ -1,0 +1,12 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.4.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/tmalaga/Code/EngenhariaSoftware
+collecting ... collected 4 items
+
+teste.py::test_calcular_frete_normal PASSED                              [ 25%]
+teste.py::test_calcular_frete_expresso PASSED                            [ 50%]
+teste.py::test_calcular_frete_retirada PASSED                            [ 75%]
+teste.py::test_calcular_frete_invalido PASSED                            [100%]
+
+============================== 4 passed in 0.01s ===============================
